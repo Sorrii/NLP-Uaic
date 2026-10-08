@@ -1,0 +1,101 @@
+TASK 1
+
+python -m pip install -r requirements.txt
+python -m nltk.downloader wordnet
+python .\task1.py
+
+TASK 2 a) EXPLORAREA RELATIILOR WORDNET
+
+PORNIRE
+
+Foloseste aceleasi dependinte instalate pentru Task 1.
+Nu trebuie sa instalezi nimic suplimentar.
+
+Salveaza fisierele, deschide terminalul in VS Code si ruleaza:
+
+cd "E:\Coding\NLP-Uaic\hw01"
+python -m task_2.exercise_a.exercise_a
+
+
+UTILIZARE
+
+Introdu un cuvant in engleza si apasa Enter.
+
+Programul afiseaza separat fiecare sens, cu:
+partea de vorbire, definitia, sinonimele, antonimele,
+hiperonimele, hiponimele si meronimele disponibile.
+
+Dupa afisarea rezultatelor, poti introduce alt cuvant.
+Poti continua cu oricate cuvinte doresti.
+
+Daca un cuvant nu este gasit sau apesi Enter fara sa scrii nimic,
+programul afiseaza un mesaj si permite o noua introducere.
+
+
+OPRIRE
+
+Scrie 0 si apasa Enter.
+
+Alternativ, apasa Ctrl+C in terminal.
+
+
+TASK 2 b) SI c) JOCUL DE ASOCIERE WORDNET
+
+PORNIRE
+
+Salveaza fisierele, deschide terminalul in VS Code si ruleaza:
+
+cd "E:\Coding\NLP-Uaic\hw01"
+python -m task_2.exercise_bc.exercise_bc
+
+
+CUM SE JOACA
+
+Introdu numele jucatorului si apasa Enter.
+
+Programul alege un cuvant din vocabularul WordNet.
+Afiseaza cuvantul, partea de vorbire si definitia sensului folosit.
+
+Introdu un cuvant asociat in engleza si apasa Enter.
+Foloseste aceeasi parte de vorbire ca pentru cuvantul propus.
+
+Pentru fiecare raspuns evaluat, programul afiseaza:
+similaritatea, relatiile identificate, punctele si scorul total.
+
+Poti introduce oricate raspunsuri doresti pentru acelasi cuvant.
+Repetarea unui raspuns sau a cuvantului propus nu aduce puncte.
+
+Cand nu mai ai idei, scrie 0 si apasa Enter.
+Programul propune alt cuvant, iar scorul total se pastreaza.
+
+Jocul continua pana il opresti.
+Cuvantul exit poate fi folosit ca raspuns; nu opreste jocul.
+
+
+OPRIRE
+
+Scrie /stop si apasa Enter.
+
+Alternativ, apasa Ctrl+C in terminal.
+
+
+SALVAREA REZULTATELOR
+
+La oprirea jocului, programul salveaza un singur rezumat in:
+
+task_2\exercise_bc\scores.txt
+
+Rezumatul contine:
+numele jucatorului, scorul final si cuvintele propuse,
+fiecare impreuna cu raspunsurile distincte introduse.
+
+Sunt pastrate si raspunsurile care nu au primit puncte.
+Cuvintele sarite fara raspuns apar cu mentiunea "(fara raspuns)".
+
+Fiecare sesiune noua este adaugata la finalul fisierului.
+Sesiunile anterioare nu sunt sterse.
+La o noua pornire, scorul incepe de la 0.
+
+Pentru salvare, opreste jocul cu /stop sau Ctrl+C.
+Nu inchide fortat terminalul: rezumatul se scrie la oprire,
+nu dupa fiecare raspuns.

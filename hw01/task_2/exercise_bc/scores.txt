@@ -1,0 +1,17 @@
+Jucator: Sorin
+Scor final: 199
+Cuvinte propuse -> raspunsuri:
+child -> kid, kin, relative, son, nurse
+car -> (fara raspuns)
+happy -> (fara raspuns)
+house -> (fara raspuns)
+dog -> (fara raspuns)
+
+Jucator: Sorin
+Scor final: 188
+Cuvinte propuse -> raspunsuri:
+bridge whist -> cards, bridge, deck, suit, win
+dishful -> quantity
+scoffer -> greedy, hungry
+lightbulb -> lamp
+
