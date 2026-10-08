@@ -99,3 +99,5 @@ La o noua pornire, scorul incepe de la 0.
 Pentru salvare, opreste jocul cu /stop sau Ctrl+C.
 Nu inchide fortat terminalul: rezumatul se scrie la oprire,
 nu dupa fiecare raspuns.
+
+#.\.venv\Scripts\python.exe app.py

@@ -15,3 +15,30 @@ dishful -> quantity
 scoffer -> greedy, hungry
 lightbulb -> lamp
 
+Jucator: seb
+Scor final: 71
+Cuvinte propuse -> raspunsuri:
+rhinobatidae -> (fara raspuns)
+scomberomorus maculatus -> sea
+flemish -> (fara raspuns)
+sinkiang -> (fara raspuns)
+injector -> reactor
+bigfoot -> bear
+drama -> actor, comedy
+frenziedly -> (fara raspuns)
+bee killer -> wasp
+
+Jucator: Sebi
+Scor final: 86
+Cuvinte propuse -> raspunsuri:
+evergreen huckleberry -> bluberry
+populus -> (fara raspuns)
+scurrying -> (fara raspuns)
+dalbergia latifolia -> (fara raspuns)
+genus arctotis -> (fara raspuns)
+shakable -> (fara raspuns)
+tintinnabulation -> (fara raspuns)
+apple rust -> fruit, tree, mushroom, forest, iron, juice
+present progressive -> feelings
+illicium verum -> war
+
