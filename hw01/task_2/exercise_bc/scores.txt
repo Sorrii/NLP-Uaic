@@ -42,3 +42,29 @@ apple rust -> fruit, tree, mushroom, forest, iron, juice
 present progressive -> feelings
 illicium verum -> war
 
+Jucator: 94
+Scor final: 6
+Cuvinte propuse -> raspunsuri:
+annelid -> 747, 22, annelid
+
+Jucator: Sebi
+Scor final: 45
+Cuvinte propuse -> raspunsuri:
+cephalanthera -> flower, tree, forest, jungle, dd
+
+Jucator: Seb
+Scor final: 11
+Cuvinte propuse -> raspunsuri:
+metalize -> wood, material
+ocotillo -> (fara raspuns)
+ratlin -> sea
+
+Jucator: seb
+Scor final: 27
+Cuvinte propuse -> raspunsuri:
+rocket engine -> motor
+fishworm -> fishworm
+poppy day -> (fara raspuns)
+hudsonian godwit -> (fara raspuns)
+serum -> syringe
+
